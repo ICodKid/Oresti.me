@@ -1,6 +1,6 @@
 ---
 title: Building and Testing My Pwnagotchi
-description: My journey building a Pwnagotchi …
+description: My journey building a Pwnagotchi.
 slug: building-and-testing-my-pwnagotchi
 published: 2025-09-10T10:00:00Z
 updated: 2025-09-10T10:00:00Z
