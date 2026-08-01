@@ -2,7 +2,6 @@
 title: Beach Bar - TryHackMe Writeup
 published: 2026-08-01
 description: Insecure YAML deserialization, leaked demo creds, and a root password sitting in ps aux — solving TryHackMe's Beach Bar room from Hacker Holidays.
-image: ./cover.jpg
 tags: [TryHackMe, CTF, Web Exploitation, Linux, Privilege Escalation]
 category: Writeups
 draft: false
